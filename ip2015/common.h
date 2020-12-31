@@ -45,7 +45,7 @@
 // macros
 
 #define sqr(x)          ((x)*(x))
-#define cube(x)		((x) * (x) * (x))
+#define cube(x)         ((x) * (x) * (x))
 #define max(a,b)        ((a)>(b)?(a):(b))
 #define min(a,b)        ((a)<(b)?(a):(b))
 
